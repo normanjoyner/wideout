@@ -1,6 +1,6 @@
 {
   "name": "wideout",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An extensible http git backend implemented in node",
   "main": "application.js",
   "scripts": {
